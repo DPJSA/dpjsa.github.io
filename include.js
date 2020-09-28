@@ -29,3 +29,4 @@ function includeHTML() {
                     }
                 }
             };
+alert('includeHTML() import successful');
